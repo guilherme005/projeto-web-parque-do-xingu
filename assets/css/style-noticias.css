@@ -261,3 +261,14 @@ body{
   cursor: auto;
   color: grey;
  }
+ .txt-carrossel{
+  font-family: 'Roboto', sans-serif;
+  color: rgb(28, 17, 111);
+  font-weight: 700;
+  text-shadow: 
+           -1px -1px 0px #FFF, 
+           -1px 1px 0px #FFF,                    
+            1px -1px 0px #FFF,                  
+            1px 0px 0px #FFF;
+
+ }
