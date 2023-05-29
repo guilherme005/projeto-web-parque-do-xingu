@@ -236,8 +236,9 @@ body{
   background-color: #ffffff;
   border: none;
   padding: 1rem;
-  font-size: 1rem;
+  font-size: 1.2em;
   width: 10em;
+  font-weight: 400;
   border-radius: 1rem;
   color: rgb(11, 10, 85);
   box-shadow: 0 0.4rem #030f5a53;
@@ -263,7 +264,7 @@ body{
  }
  .txt-carrossel{
   font-family: 'Roboto', sans-serif;
-  color: rgb(28, 17, 111);
+  color: rgb(10, 10, 10);
   font-weight: 700;
   text-shadow: 
            -1px -1px 0px #FFF, 
